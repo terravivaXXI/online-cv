@@ -63,7 +63,9 @@ education:
     details: |
        - Thesis "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
 
-  - degree: Certification in Integrated Management of Tropical Forests, Landscape Restoration and their role in Climate Change
+  - degree: Certification in Integrated Management of Tropical Forests, | Landscape Restoration and their role in Climate Change
+    university: CATIE. Tropical Agricultural Research and Higher Education Center
+    time: 2017
     
   - degree: Masters in Rural Development Management, Food Security and Family Agriculture
     university: Universidad Autonoma Chapingo (UACH).
@@ -71,8 +73,6 @@ education:
     details: |
         - Thesis: Water Management and its Relation with the Development of the Community of Yoactun, Quintana Roo.
         - Degree project: Auxiliary irrigation and livestock farming systems Kool-Ja (translates to Water for the Milpa in Mayan).
-
-  - degree: Certification in Integrated Management of Tropical Forests, Landscape Restoration and their role in Climate Change
 
   - degree: BSc in Mathematics
     university: Universidad Nacional Autonoma de Mexico (UNAM)
