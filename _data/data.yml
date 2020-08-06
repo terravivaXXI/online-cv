@@ -57,42 +57,49 @@ career-profile:
       Restoring natural landscapes through human behavior evolution through the adoption of syntrophic production systems, environmentally friendly technologies and practical educational processes with innovative theoretical foundations that allow a conscious and harmonious interaction between humans and nature
 
 education:
+  - degree: PhD in Forestry Student.
+    university: University of British Columbia
+    time: 2019
+    details: |
+       - Thesis "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
 
-    - degree: Masters in Rural Development Management, Food Security and Family Agriculture
-      university: Universidad Autonoma Chapingo (UACH).
-      time: 2015 - 2018
-      details: |
+  - degree: Certification in Integrated Management of Tropical Forests, Landscape Restoration and their role in Climate Change
+    
+  - degree: Masters in Rural Development Management, Food Security and Family Agriculture
+    university: Universidad Autonoma Chapingo (UACH).
+    time: 2015 - 2018
+    details: |
         - Thesis: Water Management and its Relation with the Development of the Community of Yoactun, Quintana Roo.
         - Degree project: Auxiliary irrigation and livestock farming systems Kool-Ja (translates to Water for the Milpa in Mayan).
 
-    - degree: BSc in Mathematics
-      university: Universidad Nacional Autonoma de Mexico (UNAM)
-      time: 2008 - 2013
-      details: |
-        - Specialization in Mathematical Logic, Set Theory, Probability and Topology.
-        - Thesis: Shift tree spaces and their automata. Belonging to the branch of symbolic dynamics, this work studies the reinterpretation of writing in tree structured schemes.
+  - degree: Certification in Integrated Management of Tropical Forests, Landscape Restoration and their role in Climate Change
 
- experiences:
+  - degree: BSc in Mathematics
+    university: Universidad Nacional Autonoma de Mexico (UNAM)
+    time: 2008 - 2013
+    details: 
+
+experiences: 
     - role: Kool Ja Project Director
       time: 2015 - Now
       company: Proyecto Kool Ja
       details: |
-        Kool-Já is the first alternative designed expressly for watering the peninsular Mayan Milpa allowing it to evolve into an agro-forestry system. It is composed by accessible infrastructure for rainwater harvesting that is installed in the highlands of the Milpa plots and has the capacity to store from 5 to 50m3 of water that are capable of providing assistance irrigation, alleviating water scarcity, thus avoiding loss due to drought, which is one of the serious problems faced by peninsular agriculture nowadays.
- 
-    - role: Data Architect / Salesforce Administrator
+        Kool-Já is the first alternative designed expressly for watering the peninsular Mayan Milpa allowing it to evolve into an agro-forestry system. It is composed by accessible infrastructure for rainwater harvesting that is installed in the highlands of the Milpa plots and has the capacity to store from 5 to 50m3 of water that are capable of providing assistance irrigation, alleviating water scarcity, thus avoiding loss due to drought, which is one of the serious problems faced by peninsular agriculture nowadays
+     
+    - role : Data Architect and Salesforce Administrator
       time: 2019
       company: Plataforma Nuup A.C
       details: |
         Designer, programmer and trainer for the development of digital tools for information collection in the field.
         
-     - role: Yucatan Peninsula Regional Coordinator
+    - role: Yucatan Peninsula Regional Coordinator
       time: 2016 - 2019
       company: International Renewable Resources Institute NGO (IRRI Mexico)
       details: |
         - Coordination of the Regional Biogas Programme for the Yucatan Peninsula 
         - Project director: rainwater for the rainforest wildlife and rural agro-sector. – UNDP / GEF Small Grants Program.
         
-     - role: Project Coordinator and Fundraiser
+    - role: Project Coordinator and Fundraiser
       time: 2016 - 2019
       company: El Hombre Sobre la Tierra NGO
       details: |
@@ -102,9 +109,7 @@ education:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Here is a list and hyperlinks to a selection of my publications that are available in the web through the hyperlink.
     papers:
       - title: The Art of Computer Programming
         link: "#"
