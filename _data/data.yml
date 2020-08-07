@@ -61,7 +61,9 @@ education:
     time: 2019
     details: |
        - Thesis "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
-  - degree: Certification in Integrated Management of Tropical Forests, > Landscape Restoration and their role in Climate Change
+  - degree: Certification in Integrated Management of Tropical Forests, 
+  
+            Landscape Restoration and their role in Climate Change
     university: CATIE. Tropical Agricultural Research and Higher Education Center
     time: 2017
     
@@ -84,7 +86,7 @@ experiences:
       time: 2015 - Now
       company: Proyecto Kool Ja
       details: |
-        Kool-Já began as a response to the water crisis in the Yucatan
+        Kool-Já began as a response to the water crisis in the Yucatan and has grown to become an open source project with more than 37 prototypes installed in the region.
         
         
      
@@ -110,7 +112,7 @@ experiences:
 publications:
     title: Publications
     intro: |
-      Here is a list and hyperlinks to a selection of my publications that are available in the web through the hyperlink.
+      Here is a list and hyperlinks to a selection of my publications that are available in the web.
     papers:
       - title: The Art of Computer Programming
         link: "#"
