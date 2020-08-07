@@ -55,14 +55,12 @@ career-profile:
     title: Career Profile
     summary: |
       Restoring natural landscapes through human behavior evolution through the adoption of syntrophic production systems, environmentally friendly technologies and practical educational processes with innovative theoretical foundations that allow a conscious and harmonious interaction between humans and nature
-
 education:
   - degree: PhD in Forestry Student.
     university: University of British Columbia
     time: 2019
     details: |
        - Thesis "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
-
   - degree: Certification in Integrated Management of Tropical Forests, | Landscape Restoration and their role in Climate Change
     university: CATIE. Tropical Agricultural Research and Higher Education Center
     time: 2017
@@ -73,7 +71,6 @@ education:
     details: |
         - Thesis: Water Management and its Relation with the Development of the Community of Yoactun, Quintana Roo.
         - Degree project: Auxiliary irrigation and livestock farming systems Kool-Ja (translates to Water for the Milpa in Mayan).
-
   - degree: BSc in Mathematics
     university: Universidad Nacional Autonoma de Mexico (UNAM)
     time: 2008 - 2013
@@ -84,7 +81,9 @@ experiences:
       time: 2015 - Now
       company: Proyecto Kool Ja
       details: |
-        Kool-Já is the first alternative designed expressly for watering the peninsular Mayan Milpa allowing it to evolve into an agro-forestry system. It is composed by accessible infrastructure for rainwater harvesting that is installed in the highlands of the Milpa plots and has the capacity to store from 5 to 50m3 of water that are capable of providing assistance irrigation, alleviating water scarcity, thus avoiding loss due to drought, which is one of the serious problems faced by peninsular agriculture nowadays
+        Kool-Já began as a response to the water crisis in the Yucatan
+        
+        
      
     - role : Data Architect and Salesforce Administrator
       time: 2019
@@ -105,7 +104,6 @@ experiences:
       details: |
         - Coordination of the Regional Biogas Programme for the Yucatan Peninsula 
         - Project director: rainwater for the rainforest wildlife and rural agro-sector. – UNDP / GEF Small Grants Program.
-
 publications:
     title: Publications
     intro: |
@@ -129,51 +127,46 @@ publications:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This is a list of projects in which I have participated
     assignments:
-      - title: Velocity
+      - title: Kool Ja
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: " Kool Ja is the first alternative designed expressly for watering the peninsular Mayan Milpa allowing it to evolve into an agro-forestry system. It is composed by accessible infrastructure for rainwater harvesting that is installed in the highlands of the Milpa plots and has the capacity to store from 5 to 50m3 of water that are capable of providing assistance irrigation, alleviating water scarcity, thus avoiding loss due to drought, which is one of the serious problems faced by peninsular agriculture nowadays"
 
-      - title: DevStudio
+      - title: Oaxaca Ethnobotanical Garden Math Classes
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Individually motivated to develop a two-month mathematics workshops for high-school students so that they would enjoy mathematics and discover the value and application of the field in simple and complex problem-solving. Hosted in a botanical garden, problems were created and solved in the field."
 
-      - title: Tempo
+      - title: Captación de Agua de Lluvia en Santa Rosa, Oaxaca
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "NGO Isla Urbana has designed a rainwater catchment system based in the first flow separation to purify rain that falls on rooftops and store it with human use quality. The systems can provide drinking water yearlong for more than 40 years to entire families or supply water for human use over 6 months.Designer of a project to raise funds to extend the initiative to Oaxaca. First stage consisted on 50 systems installed in houses of a poor neighborhood during the month of August 2015 funded by the Alfredo Harp Helú Foundation.Second stage consisted on a purification plant for a breast cancer hospital that has allowed the institution to fund their operation through the commercialization of high quality purified water. This stage also included 8 non-subsidized installations to individual clients."
+        
+      - title: La cruzada nacional contra el hambre, el PESA y las sinergias para potenciarlos (CONACYT - UACH)
+        link: "#"
+        tagline: "For this project I was in charge of designing, training, monitoring, mining and analyzing all research databases through KoboCollect and Qlik web platforms for data collection in 24 communities in 6 states of the country, generating recommendations for the design of public policy in hunger and poverty reduction."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: MS Office Suite
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript 
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Google Earth Engine
+        level: 30%
 
-      - name: HTML5 & CSS
+      - name: R Software
+        level: 10%
+
+      - name: Python
+        level: 5%
+
+      - name: PC General Knowledge and Troubleshooting
         level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
