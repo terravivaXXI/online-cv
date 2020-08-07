@@ -61,11 +61,12 @@ education:
     time: 2019
     details: |
        - Thesis "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
-  - degree: Certification in Integrated Management of Tropical Forests, | Landscape Restoration and their role in Climate Change
+  - degree: Certification in Integrated Management of Tropical Forests, > Landscape Restoration and their role in Climate Change
     university: CATIE. Tropical Agricultural Research and Higher Education Center
     time: 2017
     
-  - degree: Masters in Rural Development Management, | Food Security and Family Agriculture
+  - degree: Masters in Rural Development Management,\n
+            Food Security and Family Agriculture
     university: Universidad Autonoma Chapingo (UACH).
     time: 2015 - 2018
     details: |
