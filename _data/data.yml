@@ -87,8 +87,6 @@ experiences:
       company: Proyecto Kool Ja
       details: |
         Kool-Já began as a response to the water crisis in the Yucatan and has grown to become an open source project with more than 37 prototypes installed in the region.
-        
-        
      
     - role : Data Architect and Salesforce Administrator
       time: 2019
@@ -109,15 +107,16 @@ experiences:
       details: |
         - Coordination of the Regional Biogas Programme for the Yucatan Peninsula 
         - Project director: rainwater for the rainforest wildlife and rural agro-sector. – UNDP / GEF Small Grants Program.
+
 publications:
     title: Publications
     intro: |
-      Here is a list and hyperlinks to a selection of my publications that are available in the web.
+      Here is a list and hyperlinks to a selection of my publications that are available in the web. I also write about diverse topics in my blog writings.pmg.digital [I'm an inline-style link](https://www.google.com)
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Milpas de las comunidades mayas y dinámica de uso del suelo en la Península de Yucatán
+        link: "https://pdf.usaid.gov/pdf_docs/PA00MW9J.pdf"
+        authors: Adolfo Rodríguez Canto, Pablo González Moctezuma, Jorge Flores Torres, Rutilio Nava Montero, Luis Antonio Dzib Aguilar, Juan Ramón Pérez Pérez, Nadja Thüerbeck y José Antonio González Iturbe
+        conference: Centro Regional Universitario Península de Yucatán de la Universidad Autónoma Chapingo, Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) Proyecto México para la Reducción de Emisiones por deforestación y degradación (M-REDD+), The Nature Conservancy, Rainforest Alliance, Woods Hole Research Center, Espacios Naturales y Desarrollo Sustentable AC, 2016
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
