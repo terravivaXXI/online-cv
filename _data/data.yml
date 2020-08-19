@@ -82,7 +82,6 @@ education:
     details: |
         - Thesis: Tree shifts and automata.
         - Specialization: Logic, Set Theory, Dynamic Systems and Topology
-
 experiences: 
     - role: Kool Ja Project Director
       time: 2015 - Now
@@ -117,15 +116,12 @@ experiences:
         - Coordination of rural and urban projects
         - Grant writer
         - Project co-director: 50 rainwater collection systems for Oaxaca - FAHHO / La Casa de la Ciudad.
-
 publications:
     title: Publications
     intro: |
       Here is a list and hyperlinks to a selection of my publications that are available in the web. I also write about diverse topics in my [blog](https://writings.pgm.digital)
-    papers:
-        
-        BOOKS AND BOOK CHAPTERS
-
+    papers: |
+      - title: "BOOKS AND BOOK CHAPTERS"
       - title: Milpas de las comunidades mayas y dinámica de uso del suelo en la Península de Yucatán
         link: "https://pdf.usaid.gov/pdf_docs/PA00MW9J.pdf"
         authors: Adolfo Rodríguez Canto, Pablo González Moctezuma, Jorge Flores Torres, Rutilio Nava Montero, Luis Antonio Dzib Aguilar, Juan Ramón Pérez Pérez, Nadja Thüerbeck y José Antonio González Iturbe
