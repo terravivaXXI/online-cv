@@ -232,30 +232,22 @@ projects:
      
       - title: U Ka' Muuk' Lu'um Agroecotechnology Research and Bioslurry Collection Centre  
         link: "https://www.facebook.com/SistemaBiobolsa/videos/1581911571911088"
-        tagline: "Along with great collaborators (Angélica Bravo Anaya, Jorge Alfredo Pérez, Leonardo Gutiérrez, Don Genaro Euán, Jairo Torres) led the evolution of the Yucatan Regional Biogas Program (RBPY) into an integral agroecological learning center, which went beyond ecotechnology implementation to a capacity-building and technical assistance program for regional smallholder farmers. Translated the chemistry and biology principles of the biodigester byproducts (biogas and bioslurry) and adapted them to the agricultural practices, social and economic challenges of local farmers through an engaging 10-hour training that benefitted almost 100 families in its first year of implementation.
+        tagline: "Along with great collaborators (Angélica Bravo Anaya, Jorge Alfredo Pérez, Leonardo Gutiérrez, Don Genaro Euán, Jairo Torres) led the evolution of the Yucatan Regional Biogas Program (RBPY) into an integral agroecological learning center, which went beyond ecotechnology implementation to a capacity-building and technical assistance program for regional smallholder farmers. Translated the chemistry and biology principles of the biodigester byproducts (biogas and bioslurry) and adapted them to the agricultural practices, social and economic challenges of local farmers through an engaging 10-hour training that benefitted almost 100 families in its first year of implementation."
       
-
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
       - name: MS Office Suite
         level: 90%
-
       - name: Javascript 
         level: 50%
-
       - name: Google Earth Engine
         level: 30%
-
       - name: R Software
         level: 10%
-
       - name: Python
         level: 5%
-
       - name: PC General Knowledge and Troubleshooting
         level: 95%
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
