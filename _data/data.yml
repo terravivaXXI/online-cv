@@ -54,35 +54,37 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Restoring natural landscapes through human behavior refinement by promoting the adoption of syntrophic production systems, environmentally friendly technologies and practical educational processes with innovative theoretical foundations that allow a conscious and harmonious interaction between humans and nature
+      Restoring natural landscapes through learning, sharing, and opening spaces for discussion. I believe in the power of syntrophic production systems, environmentally friendly technologies and practical educational processes with innovative theoretical foundations that allow a conscious and harmonious interaction between humans and nature
 education:
   - degree: Student, PhD in Forestry
     university: University of British Columbia
-    time: 2019 - now
+    time: 2019 - Current
     details: |
        - Research topic: "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
+  - degree: |
+  
+        Ms. in Rural Development, 
+        Food Security and Family Agriculture
+        
+    university: Universidad Autonoma Chapingo (UACH).
+    time: 2015 - 2018
+    details: |
+        - Thesis: Water Management and its Relation with the Development of the Community of Yoactun, Quintana Roo.
+        - Degree project: Auxiliary irrigation and livestock farming systems Kool-Ja (translates to Water for the Milpa in Mayan).     
+       
   - degree: | 
         Certification in Management of Tropical Forests, 
               and Landscape Restoration
     university: CATIE. Centro Agronómico Tropical de Investigación y Enseñanza
     time: 2017
     
-  - degree: |
-        Ms. in Rural Development, 
-        Food Security and Family Agriculture
-  
-    university: Universidad Autonoma Chapingo (UACH).
-    time: 2015 - 2018
-    details: |
-        - Thesis: Water Management and its Relation with the Development of the Community of Yoactun, Quintana Roo.
-        - Degree project: Auxiliary irrigation and livestock farming systems Kool-Ja (translates to Water for the Milpa in Mayan).
   - degree: BSc in Mathematics
     university: Universidad Nacional Autonoma de Mexico (UNAM)
     time: 2008 - 2013
     details: |
         - Thesis: Tree shifts and automata.
         - Specialization: Logic, Set Theory, Dynamic Systems and Topology
-experiences: 
+experience: 
     - role: Kool Ja Project Director
       time: 2015 - Now
       company: <a href="https://www.revistacambio.com.mx/archivo/kool-ja-una-alternativa-a-la-escasez-de-agua/" target="_blank" rel="nofollow">Proyecto Kool Ja</a>
@@ -124,7 +126,7 @@ publications:
     papers: 
       - title: "BOOKS AND BOOK CHAPTERS"
       
-      - title: Milpas de las comunidades mayas y dinámica de uso del suelo en la Península de Yucatán
+      - title: Milpas de las comunidades mayas y dinámica de uso del suelo en la Península de Yucatán (see links)
         link: "https://pdf.usaid.gov/pdf_docs/PA00MW9J.pdf"
         authors: Adolfo Rodríguez Canto, Pablo González Moctezuma, Jorge Flores Torres, Rutilio Nava Montero, Luis Antonio Dzib Aguilar, Juan Ramón Pérez Pérez, Nadja Thüerbeck y José Antonio González Iturbe
         conference: Centro Regional Universitario Península de Yucatán de la Universidad Autónoma Chapingo, Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) Proyecto México para la Reducción de Emisiones por deforestación y degradación (M-REDD+), The Nature Conservancy, Rainforest Alliance, Woods Hole Research Center, Espacios Naturales y Desarrollo Sustentable AC (2016)
@@ -163,7 +165,7 @@ publications:
         
       - title: "SCIENTIFIC OUTREACH AND COMMUNICATIONS"
 
-      - title: "Poema a Milpas Mayas"
+      - title: "Poema a Milpas Mayas (see links)"
         link: "https://drive.google.com/file/d/1mFruFzmCJ-a-SllUtEg9eSbq_laZ8VMi/view?usp=sharing"
         authors: Pablo González Moctezuma
         conference: Cuadernos Personales (2016)
@@ -190,7 +192,7 @@ publications:
         
       - title: "PRESENTATIONS AND THESES"
       
-      - title: Diseño y Prueba de un Sistema de Captación de Lluvia para Riego de Milpa Maya Peninsular
+      - title: Diseño y Prueba de un Sistema de Captación de Lluvia para Riego de Milpa Maya Peninsular (see links)
         link: "https://drive.google.com/file/d/1Wyk30722Eqk_WBhwjPaCXRN-Ce6_pos1/view?usp=sharing"
         authors: Gonzalez M.P, Rodríguez C.A
         conference: V Congreso Internacional y XIX Congreso Nacional de Ciencias Agronómicas (2017)
@@ -210,7 +212,7 @@ projects:
     intro: >
       This is a list of projects in which I have participated, click on the link to see the correspondent documentation
     assignments:
-      - title: Kool Ja
+      - title: Kool Ja (see links)
         link: "https://proyectokoolja.me"
         tagline: " Kool Ja is the first alternative designed expressly for watering the peninsular Mayan Milpa allowing it to evolve into an agro-forestry system. It is composed by accessible infrastructure for rainwater harvesting that is installed in the highlands of the Milpa plots and has the capacity to store from 5 to 50m3 of water that are capable of providing assistance irrigation, alleviating water scarcity, thus avoiding loss due to drought, which is one of the serious problems faced by peninsular agriculture nowadays"
         
@@ -222,11 +224,11 @@ projects:
         link: "https://drive.google.com/file/d/1O0UBS9ktKiScRvOb7LSKXxYr4vSwxs82/view?usp=sharing"
         tagline: "Individually motivated to develop a two-month mathematics workshops for high-school students so that they would enjoy mathematics and discover the value and application of the field in simple and complex problem-solving. Hosted in a botanical garden, problems were created and solved in the field."
 
-      - title: Captación de Agua de Lluvia en Santa Rosa, Oaxaca
+      - title: Rainwater Collection Systems in Santa Rosa, Oaxaca
         link: "https://drive.google.com/file/d/1ZehuNSuTipgBQr6pg-MUdUIt58jE7ife/view?usp=sharing"
         tagline: "NGO Isla Urbana has designed a rainwater catchment system based in the first flow separation to purify rain that falls on rooftops and store it with human use quality. The systems can provide drinking water yearlong for more than 40 years to entire families or supply water for human use over 6 months.Designer of a project to raise funds to extend the initiative to Oaxaca. First stage consisted on 50 systems installed in houses of a poor neighborhood during the month of August 2015 funded by the Alfredo Harp Helú Foundation.Second stage consisted on a purification plant for a breast cancer hospital that has allowed the institution to fund their operation through the commercialization of high quality purified water. This stage also included 8 non-subsidized installations to individual clients."
         
-      - title: Datos para La cruzada nacional contra el hambre, el PESA y las sinergias para potenciarlos (CONACYT - UACH)
+      - title: "Data for Public Policy: La cruzada nacional contra el hambre, PESA y and the synergies to strengthen them (CONACYT - UACH)"
         link: "https://drive.google.com/file/d/1CoN7uPZ5OK7K9xGPUyZVotgtPszdK8gK/view?usp=sharing"
         tagline: "For this project I was in charge of designing, training, monitoring, mining and analyzing all research databases through KoboCollect and Qlik web platforms for data collection in 24 communities in 6 states of the country, generating recommendations for the design of public policy in hunger and poverty reduction."
      
@@ -237,6 +239,8 @@ projects:
 skills:
     title: Skills &amp; Proficiency
     toolset:
+      - name: Grant Prospection and Fundraising
+        level: 80%
       - name: MS Office Suite
         level: 90%
       - name: Javascript 
