@@ -2,7 +2,7 @@
 
 # Site Settings
 title: G.M Pablo Resume
-url: 'http://cv.pgm.digital'
+url: 'http://terravivaxxi.github.io'
 baseurl: '/online-cv' #change it according to your repository name
 description: CV of Pablo Gonzalez Moctezuma
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
