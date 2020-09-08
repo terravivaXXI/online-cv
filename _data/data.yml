@@ -12,7 +12,7 @@ sidebar:
     avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: pablo@pgm.digital
+    email: pablo[at]pgm[dot]digital
     phone: +1 604 822 2727
     website: writings.pgm.digital #do not add http://
     linkedin: pablo-g-m
