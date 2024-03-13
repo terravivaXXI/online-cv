@@ -124,6 +124,28 @@ publications:
     intro: |
       Here is a list and hyperlinks to a selection of my publications that are available in the web. I also write about diverse topics in my [blog](https://writings.pgm.digital)
     papers: 
+      - title: "PEER REVIEW - WORK IN PROGRESS"
+      
+      - title: "PhD in Forestry dissertation (see links)"
+        link: "https://www.youtube.com/watch?v=bQ7oj7VOETU"
+        authors: Pablo González Moctezuma, Jeanine Rhemtulla
+        conference: 3 Minute Thesis video for an overview (2023)
+        
+      - title: National agroforestry program in Mexico faces trade-offs between reducing poverty, protecting biodiversity and targeting forest loss
+        link: "#"
+        authors: Gonzalez-Moctezuma Pablo, Rhemtulla Jeanine M.
+        conference: In review, ERL
+        
+      - title: "Defining, counting and locating small farms in Mexico to measure their contributions to agricultural production"
+        link: "#"
+        authors: "Gonzalez-Moctezuma Pablo, Ramankutty Navin, Rhemtulla Jeanine M."
+        conference: In progress
+
+      - title: "How is forest cover affected by large scale agroforestation interventions? A case study using the Sembrando Vida policy in Mexico"
+        link: "#"
+        authors: "Gonzalez-Moctezuma Pablo, Rufin Phillipe, Meyfroidt Patrick, Noack Frederick, Rhemtulla Jeanine M."
+        conference: In progress
+    
       - title: "BOOKS AND BOOK CHAPTERS"
       
       - title: "Milpas de las comunidades mayas y dinámica de uso del suelo en la Península de Yucatán (see links)"
