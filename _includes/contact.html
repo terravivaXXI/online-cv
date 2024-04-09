@@ -19,6 +19,12 @@
     </li>
     {% endif %}
 
+    {% if sidebar.mastodon %}
+    <li class="mastodon"><i class="fa-brands fa-mastodon"></i>
+      <a href="https://mastodon.social/{{ sidebar.mastodon }}" target="_blank">{{ sidebar.mastodon }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.website %}
     <li class="website"><i class="fas fa-globe-americas"></i>
       <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
