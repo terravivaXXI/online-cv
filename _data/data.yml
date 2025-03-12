@@ -57,8 +57,8 @@ career-profile:
     summary: |
       Restoring natural landscapes through learning, sharing, and opening spaces for discussion. I believe in the power of syntrophic production systems, environmentally friendly technologies and practical educational processes with innovative theoretical foundations that allow a conscious and harmonious interaction between humans and nature
 education:
-  - degree: Student, PhD in Forestry
-    university: University of British Columbia
+  - degree: PhD Candidate in Forestry
+    university: Faculty of Forestry, University of British Columbia
     time: 2019 - Current
     details: |
        - Research topic: "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
@@ -132,11 +132,6 @@ publications:
         authors: Pablo González Moctezuma, Jeanine Rhemtulla
         conference: 3 Minute Thesis video for an overview (2023)
         
-      - title: National agroforestry program in Mexico faces trade-offs between reducing poverty, protecting biodiversity and targeting forest loss
-        link: "https://drive.google.com/file/d/1JwuYPqLLbl0TeF_NonyTS3xQR2BUxtZT/view?usp=sharing"
-        authors: Gonzalez-Moctezuma Pablo, Rhemtulla Jeanine M.
-        conference: In review, ERL
-        
       - title: "Defining, counting and locating small farms in Mexico to measure their contributions to agricultural production"
         link: "#"
         authors: "Gonzalez-Moctezuma Pablo, Ramankutty Navin, Rhemtulla Jeanine M."
@@ -148,6 +143,10 @@ publications:
         conference: In progress
 
       - title: "PEER REVIEWED - PUBLISHED"
+      - title: National agroforestry program in Mexico faces trade-offs between reducing poverty, protecting biodiversity and targeting forest loss
+        link: "https://doi.org/10.1088/1748-9326/ad6a27"
+        authors: Gonzalez-Moctezuma Pablo, Rhemtulla Jeanine M.
+        conference: Environmental Research Letters (2024)
       
       - title: "Guiding principles for transdisciplinary and transformative fire research"
         link: "https://doi.org/10.1186/s42408-023-00244-w"
