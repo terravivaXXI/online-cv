@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pablo Gonzalez Moctezuma
-    tagline: Rural Development Practitioner and Forestry PhD Student
+    tagline: PhD in Forestry and Rural Development Practitioner
     avatar: profile2.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,11 +56,11 @@ career-profile:
     summary: |
       Restoring natural landscapes through learning, sharing, and opening spaces for discussion. I believe in the power of syntrophic production systems, environmentally friendly technologies and practical educational processes with innovative theoretical foundations that allow a conscious and harmonious interaction between humans and nature
 education:
-  - degree: PhD Candidate in Forestry
+  - degree: PhD in Forestry
     university: Faculty of Forestry, University of British Columbia. Vancouver, Canada.
-    time: 2019 - Current
+    time: 2019 - October 2025
     details: |
-       - Research topic: "Smallholder Farmers in Mexico and their Role in Landscape Restoration"
+       - PhD Dissertation: "Big policies for small-scale farmers: a data-driven assessment of the coverage and environmental impact of the Sembrando Vida initiative in Mexico"
   - degree: |
   
         Ms. in Rural Development, 
@@ -126,10 +126,10 @@ publications:
     papers: 
       - title: "PEER REVIEW - WORK IN PROGRESS"
       
-      - title: "PhD in Forestry dissertation (see links)"
-        link: "https://www.youtube.com/watch?v=bQ7oj7VOETU"
+      - title: "PhD in Forestry defence: recorded talk (see links)"
+        link: "https://youtu.be/3F10vuqUrUk"
         authors: Pablo González Moctezuma, Jeanine Rhemtulla
-        conference: 3 Minute Thesis video for an overview (2023)
+        conference: Defence presentation
         
       - title: "Defining, counting and locating small farms in Mexico to measure their contributions to agricultural production"
         link: "#"
@@ -138,10 +138,21 @@ publications:
 
       - title: "How is forest cover affected by large scale agroforestation interventions? A case study using the Sembrando Vida policy in Mexico"
         link: "#"
-        authors: "Gonzalez-Moctezuma Pablo, Rufin Phillipe, Meyfroidt Patrick, Noack Frederick, Rhemtulla Jeanine M."
+        authors: "Gonzalez-Moctezuma Pablo, Rufin Phillipe, Meyfroidt Patrick, Noack Frederick, Potapov Peter, Gao Yan, Rhemtulla Jeanine M."
         conference: In progress
 
       - title: "PEER REVIEWED - PUBLISHED"
+      
+      - title: Big policies for small-scale farmers: a data-driven assessment of the coverage and environmental impact of the Sembrando Vida initiative in Mexico
+        link: "#"
+        authors: Gonzalez-Moctezuma Pablo
+        conference: Dissertation for PhD in Forestry, Faculty of Forestry, The University of British Columbia (2025)
+        
+      - title: The promises and missed opportunities of upscaling agroforestry: Lessons from Mexico’s Sembrando Vida program
+        link: "https://doi.org/10.1007/s10457-025-01281-x"
+        authors: Gonzalez-Moctezuma Pablo, Winkler-Schor Sophia, Moure Mar
+        conference: Agroforestry Systems (2025)
+      
       - title: National agroforestry program in Mexico faces trade-offs between reducing poverty, protecting biodiversity and targeting forest loss
         link: "https://doi.org/10.1088/1748-9326/ad6a27"
         authors: Gonzalez-Moctezuma Pablo, Rhemtulla Jeanine M.
@@ -219,6 +230,11 @@ publications:
         conference: Centro Regional Universitario Península de Yucatán de la Universidad Autónoma Chapingo, Agencia de los Estados Unidos para el Desarrollo Internacional (USAID) Proyecto México para la Reducción de Emisiones por deforestación y degradación (M-REDD+), The Nature Conservancy, Rainforest Alliance, Woods Hole Research Center, Espacios Naturales y Desarrollo Sustentable AC (2017)
         
       - title: "PRESENTATIONS AND THESES"
+
+      - title: "Who Works The Farms? Women’s Labor in Mexican Agriculture (or Female labor in Mexican Agriculture)"
+        link: "https://las.arts.ubc.ca/fall-2025-symposium/"
+        authors: Gonzalez-Moctezuma Pablo (Presenter), Klassen Susanna
+        conference: Latin American Landscapes Symposium. “Over the Mountain and Down the River to the Coast” (2025)
 
       - title: "Restoration upscaling trades-off multiple objectives and operability"
         link: "https://conf2023.gdn.int/speaker/pablo-gonzalez-moctezuma/"
