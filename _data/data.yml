@@ -60,7 +60,7 @@ education:
     university: Faculty of Forestry, University of British Columbia. Vancouver, Canada.
     time: 2019 - October 2025
     details: |
-       - PhD Dissertation: "Big policies for small-scale farmers: a data-driven assessment of the coverage and environmental impact of the Sembrando Vida initiative in Mexico"
+        - PhD Dissertation: "Big policies for small-scale farmers: a data-driven assessment of the coverage and environmental impact of the Sembrando Vida initiative in Mexico"
   - degree: |
   
         Ms. in Rural Development, 
@@ -128,7 +128,7 @@ publications:
       
       - title: "PhD in Forestry defence: recorded talk (see links)"
         link: "https://youtu.be/3F10vuqUrUk"
-        authors: Pablo González Moctezuma, Jeanine Rhemtulla
+        authors: "Gonzalez-Moctezuma Pablo"
         conference: Defence presentation
         
       - title: "Defining, counting and locating small farms in Mexico to measure their contributions to agricultural production"
