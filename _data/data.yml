@@ -126,7 +126,7 @@ publications:
     papers: 
       - title: "PEER REVIEW - WORK IN PROGRESS"
       
-      - title: "PhD in Forestry defence: recorded talk (see links)"
+      - title: "PhD in Forestry defence: recorded talk (see links)" # The 3minute thesis presentation https://www.youtube.com/watch?v=bQ7oj7VOETU&t=604s
         link: "https://youtu.be/3F10vuqUrUk"
         authors: "Gonzalez-Moctezuma Pablo"
         conference: Defence presentation
@@ -241,6 +241,11 @@ publications:
         link: "https://las.arts.ubc.ca/fall-2025-symposium/"
         authors: Gonzalez-Moctezuma Pablo (Presenter), Klassen Susanna
         conference: Latin American Landscapes Symposium. “Over the Mountain and Down the River to the Coast” (2025)
+
+      - title: "Assessing early outcomes of Sembrando Vida on forest cover, poverty, and biodiversity"
+        link: "https://www.youtube.com/watch?v=fyon_NQQoNU"
+        authors: Gonzalez-Moctezuma Pablo (Presenter), Rhemtulla Jeanine M, Noack Frederik, Potapov Peter, Meyfroidt Patrick, Gao Yan, Rufin Philippe.
+        conference: Global Land Program, Open Science Meeting, Oaxaca, Mexico (2024)
 
       - title: "Restoration upscaling trades-off multiple objectives and operability"
         link: "https://conf2023.gdn.int/speaker/pablo-gonzalez-moctezuma/"
