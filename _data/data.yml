@@ -73,8 +73,7 @@ education:
         - Degree project: Auxiliary irrigation and livestock farming systems Kool-Ja (translates to Water for the Milpa in Mayan).     
        
   - degree: | 
-        Certification in Management of Tropical Forests, 
-              and Landscape Restoration
+        Certification in Management of Tropical Forests and Landscape Restoration
     university: CATIE. Centro Agronómico Tropical de Investigación y Enseñanza. Turrialba, Costa Rica.
     time: 2017
     
@@ -311,11 +310,11 @@ skills:
       - name: Javascript 
         level: 50%
       - name: Google Earth Engine
-        level: 30%
+        level: 50%
       - name: R Software
-        level: 10%
+        level: 80%
       - name: Python
-        level: 5%
+        level: 35%
       - name: PC General Knowledge and Troubleshooting
         level: 95%
 footer: >
